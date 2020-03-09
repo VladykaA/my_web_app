@@ -1,0 +1,1 @@
+https://medium.com/i18n-and-l10n-resources-for-developers/database-stored-messages-for-i18n-in-spring-boot-11dc2ee5c1f7
